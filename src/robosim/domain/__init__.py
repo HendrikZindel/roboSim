@@ -1,0 +1,1 @@
+"""Fachmodell der Robotersimulation."""
